@@ -29,5 +29,5 @@ while True:
     if price_num <= my_budget:
         print("Price is good!")
     else: print("Too expensive, keep waiting.")
-    time.sleep(1800)
+    time.sleep(3600)
 
