@@ -30,3 +30,4 @@ while True:
         print("Price is good!")
     else: print("Too expensive, keep waiting.")
     time.sleep(3600)
+
